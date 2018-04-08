@@ -38,7 +38,7 @@ aREST_UI rest = aREST_UI();
 
 // WiFi parameters
 const char* ssid = "TP-LINK_A005D1";
-const char* password = "137KincoraRoad";
+const char* password = "?????????";
 
 // The port to listen for incoming TCP connections
 #define LISTEN_PORT           80
