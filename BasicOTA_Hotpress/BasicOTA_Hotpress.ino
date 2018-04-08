@@ -8,7 +8,7 @@ IPAddress gateway(192, 168, 1, 1);
 IPAddress subnet(255, 255, 255, 0);
 
 const char* ssid = "TP-LINK_A005D1";
-const char* password = "137KincoraRoad";
+const char* password = "?????????";
 
 void setup() {
   Serial.begin(115200);
